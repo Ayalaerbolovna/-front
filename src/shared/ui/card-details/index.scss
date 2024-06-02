@@ -1,0 +1,27 @@
+.size-btn {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  transition: background-color 0.3s ease;
+}
+
+.size-btn:hover {
+  background-color: #f0f0f0;
+}
+
+.size-btn:focus,
+.size-btn:active {
+  background-color: #EF4444; /* Red */
+}
+
+.quantity-input {
+  -webkit-appearance: none; /* Safari и Chrome */
+  -moz-appearance: textfield; /* Firefox */
+  appearance: textfield;
+  text-align: center;
+}
+
+.quantity-input::-webkit-inner-spin-button,
+.quantity-input::-webkit-outer-spin-button {
+  -webkit-appearance: none; /* Safari и Chrome */
+  margin: 0; /* Удаление внутренних отступов */
+}

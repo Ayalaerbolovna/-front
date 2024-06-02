@@ -1,0 +1,33 @@
+.field {
+  position: relative;
+  width: 100%;
+}
+
+.input-wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  position: relative;
+}
+
+.field__input {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid var(--secondary);
+  padding: 10px 20px;
+  background: var(--secondary);
+  font-size: 14px;
+  font-weight: 600;
+  outline: none;
+
+  &::placeholder {
+    font-size: 12px;
+    font-weight: 600;
+  }
+}
+
+.field__icon {
+  position: absolute;
+  right: 10px;
+  pointer-events: none; /* Чтобы иконка не перекрывала клики по полю ввода */
+}
