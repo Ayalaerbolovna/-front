@@ -4,24 +4,24 @@
     "id": 1, 
     "name": "На все платья из старой коллеции",
     "description": "Скидки до 50%",
-    "img": "../src/shared/assets/img/lichi.png" 
+    "img": "/icons/lichi.png"
   }, 
   { 
     "id": 2, 
     "name": "На все аксекссуары из старой коллекции",
     "description": "Скидки до 70%", 
-    "img": "../src/shared/assets/img/lichii.png" 
+    "img": "/icons/lichii.png"
   }, 
   { 
     "id": 3, 
     "name": "На все обуви",
     "description": "Скидки до 30%",
-    "img": "../src/shared/assets/img/lichi33.png" 
+    "img": "/icons/lichi33.png"
   }, 
   { 
     "id": 4, 
     "name": "На всю весеннюю коллекцию",
     "description": "Скидки до 10%",
-    "img": "../src/shared/assets/img/lichi44.png" 
+    "img": "/icons/lichi44.png"
   } 
 ]

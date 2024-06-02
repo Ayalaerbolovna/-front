@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "../../src/shared/assets/icons/dress.jpg",
+    "img": "/icons/dress.jpg",
     "name": "Crop Fitted T-Shirt",
     "discount": 40,
     "price": 30,
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "img": "../../src/shared/assets/icons/dress22.jpg",
+    "img": "/icons/dress22.jpg",
     "name": "lichi dress",
     "discount": 35,
     "price": 50,
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "img": "../../src/shared/assets/icons/dress33.jpg",
+    "img": "/icons/dress33.jpg",
     "name": "Fitted midi dress",
     "discount": 30,
     "price": 55,
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "img": "../../src/shared/assets/icons/dress4.jpg",
+    "img": "/icons/dress4.jpg",
     "name": "Mini dress in knitted jerseyr",
     "price": 70,
     "rating": 3.5,
@@ -43,7 +43,7 @@
   },
   {
     "id": 5,
-    "img": "../../src/shared/assets/icons/dress5.jpg",
+    "img": "/icons/dress5.jpg",
     "name": "Lichi pants",
     "price": 35,
     "rating": 2,
@@ -52,7 +52,7 @@
   },
   {
     "id": 6,
-    "img": "../../src/shared/assets/icons/dress6.jpg",
+    "img": "/icons/dress6.jpg",
     "name": "Knitted short-sleeve top",
     "price": 30,
     "rating": 1,
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "img": "../../src/shared/assets/icons/dress7.jpg",
+    "img": "/icons/dress7.jpg",
     "name": "Crop Fitted T-Shirt with Lettering",
     "price": 40,
     "rating": 4.5,
@@ -70,7 +70,7 @@
   },
   {
     "id": 8,
-    "img": "../../src/shared/assets/icons/dress8.jpg",
+    "img": "/icons/dress8.jpg",
     "name": "skirt lichi",
     "price": 70,
     "rating": 3,
