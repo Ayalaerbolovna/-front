@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import './index.scss';
 
 // Import your SVG icons
-import favoritesn from '@/shared/assets/icons/favorites.svg';
+import favoritesIcon from '@/shared/assets/icons/favorites.svg';
 import eyeIcon from '@/shared/assets/icons/eye.svg';
 import starIcon from '@/shared/assets/icons/star.svg';
 import activeStarIcon from '@/shared/assets/icons/active-star.svg';
